@@ -41,6 +41,15 @@ function Sidebar() {
 				<hr className="border-t-[0.1px] border-gray-900" />
 
 				{/* Playlists... */}
+				<p className="cursor-pointer hover:text-white">Playlist Names</p>
+				<p className="cursor-pointer hover:text-white">Playlist Names</p>
+				<p className="cursor-pointer hover:text-white">Playlist Names</p>
+				<p className="cursor-pointer hover:text-white">Playlist Names</p>
+				<p className="cursor-pointer hover:text-white">Playlist Names</p>
+				<p className="cursor-pointer hover:text-white">Playlist Names</p>
+				<p className="cursor-pointer hover:text-white">Playlist Names</p>
+				<p className="cursor-pointer hover:text-white">Playlist Names</p>
+				<p className="cursor-pointer hover:text-white">Playlist Names</p>
 			</div>
 		</div>
 	);
