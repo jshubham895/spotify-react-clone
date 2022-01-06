@@ -11,7 +11,7 @@ export async function middleware(req) {
 	// allow the requests if the following is true
 	// if the token exists
 
-	if (pathname.includes("/api/auth/session") || token) {
+	if (pathname.includes("/api/auth") || token) {
 		return NextResponse.next();
 	}
 
